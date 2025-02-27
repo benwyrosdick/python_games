@@ -3,9 +3,9 @@ import sys
 import numpy as np
 
 # --- Configuration ---
-CELL_SIZE = 10
-GRID_WIDTH = 80
-GRID_HEIGHT = 60
+CELL_SIZE = 6
+GRID_WIDTH = 200
+GRID_HEIGHT = 150
 SCOREBOARD_HEIGHT = 40  # Extra space at the top for the scoreboard
 WINDOW_WIDTH = CELL_SIZE * GRID_WIDTH
 WINDOW_HEIGHT = CELL_SIZE * GRID_HEIGHT + SCOREBOARD_HEIGHT
